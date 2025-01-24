@@ -1,0 +1,12 @@
+{
+  "apiEndpoint" : [
+    {
+      "name" : "UMA",
+      "skills" : ["javaScript", "node.js", "react.js"]
+    },
+    {
+      "name":"RADHA",
+      "skills" : ["Adobe Illustrator", "Adobe After effects"]
+    }
+  ]
+}
